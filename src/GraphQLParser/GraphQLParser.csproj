@@ -4,7 +4,7 @@
     <Description>Library containing lexer and parser for GraphQL syntax</Description>
     <Product>GraphQL Parser</Product>
     <AssemblyTitle>GraphQL Parser for .NET</AssemblyTitle>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
     <AssemblyName>GraphQL-Parser</AssemblyName>
     <PackageTags>GraphQL;json;api</PackageTags>
     <PackageProjectUrl>https://github.com/graphql-dotnet/parser</PackageProjectUrl>
